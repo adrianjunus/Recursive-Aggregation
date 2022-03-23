@@ -2,7 +2,7 @@
 
 # "Company Logo Consolidation using Recursion"
 
-Not included: The actual data I used for this script (sorry). I am proud to say that this script was a big part of pulling together a fairly hefty intitiative at my company. We ended up taking a different approach (graphs via networkio) which was way better, but also at the time was an excellent example of 'striving for the most effective solution' and I suppose, 'compromise' haha. This works fairly well, with some lessons learned and notes for next steps. The project finished a while ago and has been the center-piece for some major operational-expenditure improvements.
+Not included: The actual data I used for this script (sorry). I am proud to say that this script was a big part of pulling together a fairly hefty intitiative at my company. We ended up taking a different approach (graphs via neo4j) which was way better, but also at the time was an excellent example of 'striving for the most effective solution' and I suppose, 'compromise' haha. This works fairly well, with some lessons learned and notes for next steps. The project finished a while ago and has been the center-piece for some major operational-expenditure improvements.
 
 Problem Statement:
 A company is interested in aggregating and making known a list of customer who have initiated purchases with a given company. 
